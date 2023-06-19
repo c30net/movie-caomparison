@@ -1,1 +1,1 @@
-# movie-caomparison
+# compare 2 movie
